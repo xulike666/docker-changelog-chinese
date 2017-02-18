@@ -24,7 +24,7 @@
 * 为tgz添加shell补全功能
 * 为Docker的安装脚本添加中国的镜像源
 * 为 Ubuntu 16.10 Yakkety Yak 系统添加DEB包的构建
-* 为 Fedora 25 添加RPM包de构建
+* 为 Fedora 25 添加RPM包的构建
 * 为 aarch64 添加 `make deb` 的支持
 
 ## 镜像仓库 Distribution
